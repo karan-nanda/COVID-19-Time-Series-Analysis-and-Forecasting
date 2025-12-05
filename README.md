@@ -4,6 +4,8 @@
 
 This repository contains Python code for time series analysis and forecasting of COVID-19 data using various models. The dataset used is sourced from the 'COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University' also present in the repository. The analysis includes exploratory data analysis (EDA), visualization of confirmed cases, recovered cases, and deaths worldwide, as well as time series forecasting using different models.
 
+Johns Hopkins University Center for Systems Science and Engineering. (2020). COVID-19 data repository. GitHub. https://github.com/CSSEGISandData/COVID-19
+
 ## Libraries Used
 
 - `numpy` and `pandas` for data manipulation.
